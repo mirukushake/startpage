@@ -1,0 +1,31 @@
+body, html {
+  font-family: "Chihaya Jyun", "HatsukoiFriendsmini", "Meiryo UI", sans-serif;
+}
+
+.salmon {
+  color: #e5ab91;
+}
+
+.border-salmon {
+  border-color: #e5ab91;
+}
+
+.brown {
+  color: #68443e;
+}
+
+.blue {
+  color: #88aebe;
+}
+
+.links a:hover {
+  color: #e5ab91;
+}
+
+.tab:hover {
+  color: #e5ab91;
+}
+
+[x-cloak] {
+  display: none;
+}
